@@ -27,3 +27,19 @@ button {
     font-weight: bold;
 }
 
+ul, li {
+    font-weight: bold;
+    text-align: center;
+    cursor: default;
+    pointer-events: none;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+ul .check {
+    text-decoration: line-through;
+}
+
